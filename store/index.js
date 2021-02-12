@@ -1,4 +1,4 @@
-const siteURL = "https://css-tricks.com"
+const siteURL = "https://indvillage.com"
 
 export const state = () => ({
   posts: [],
